@@ -6,4 +6,4 @@
 ```
 wget -O - http://www.undervineyard.com/ubuntu-SSR-install.sh | bash -s -- port password
 ```
-_port:端口号，password:端口对应密码
+_port:端口号，password:端口对应密码_
