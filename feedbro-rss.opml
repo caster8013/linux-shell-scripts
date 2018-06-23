@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text="Solidot" title="Solidot" type="rss" 
+            xmlUrl="http://www.solidot.org/index.rss" htmlUrl="https://www.solidot.org" maxItems="1000" entryContent="3"/>
+      <outline text="Slashdot" title="Slashdot" type="rss" 
+            xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="https://slashdot.org/" maxItems="2000"/>
+      <outline text="墙外楼" title="墙外楼" type="rss" 
+            xmlUrl="https://feeds.feedburner.com/letscorp/aDmw" htmlUrl="https://www.letscorp.net"/>
+      <outline text="中国数字时代" title="中国数字时代" type="rss" 
+            xmlUrl="http://chinadigitaltimes.net/chinese/feed/" htmlUrl="https://chinadigitaltimes.net/chinese"/>
+      <outline text="编程随想的博客" title="编程随想的博客" type="rss" 
+            xmlUrl="https://program-think.blogspot.com/feeds/posts/default" htmlUrl="https://program-think.blogspot.com/"/>
+      <outline text="端点星" title="端点星" type="rss" 
+            xmlUrl="https://terminus2049.github.io/atom.xml" htmlUrl="https://terminus2049.github.io/atom.xml"/>
+      <outline text="泡泡网" title="泡泡网" type="rss" 
+            xmlUrl="https://pao-pao.net/rss.xml" htmlUrl="https://pao-pao.net"/>
+      <outline text="自由微博" title="自由微博" type="rss" 
+            xmlUrl="https://freeweibo.com/?rss" htmlUrl="https://freeweibo.com" maxItems="1000"/>
+      <outline text="FT中文网" title="FT中文网" type="rss" 
+            xmlUrl="http://www.ftchinese.com/rss/feed" htmlUrl="http://www.ftchinese.com/" maxItems="1000"/>
+      <outline text="BBC中文" title="BBC中文" type="rss" 
+            xmlUrl="http://feeds.bbci.co.uk/zhongwen/simp/rss.xml" htmlUrl="http://www.bbcchinese.com" maxItems="1000"/>
+      <outline text="纽约时报中文" title="纽约时报中文" type="rss" 
+            xmlUrl="https://cn.nytimes.com/rss.html" htmlUrl="https://cn.nytimes.com"/>
+      <outline text="路透:时事要闻" title="路透:时事要闻" type="rss" 
+            xmlUrl="http://cn.reuters.com/rssFeed/CNTopGenNews" htmlUrl="http://cn.reuters.com"/>
+      <outline text="德国之声: DW-WORLD.DE" title="德国之声: DW-WORLD.DE" type="rss" 
+            xmlUrl="http://partner.dw.com/rdf/rss-chi-all" htmlUrl="http://www.dw.com/chinese/?maca=chi-rss-chi-all-1127-rdf" maxItems="1000"/>
+      <outline text="法广" title="法广" type="rss" 
+            xmlUrl="http://cn.rfi.fr/general/rss" htmlUrl="http://cn.rfi.fr/%E6%B3%95%E5%B9%BF_%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB/rss" maxItems="500" entryContent="2"/>
+      <outline text="Info Aggregator" title="Info Aggregator" type="rss" 
+            xmlUrl="https://feeds.feedburner.com/InfoAggregator" htmlUrl="http://newsabeta.blogspot.com/"/>
+      <outline text="新世纪" title="【新世纪】" type="rss" 
+            xmlUrl="https://groups.google.com/forum/feed/2ncn/topics/rss.xml?num=50" htmlUrl="https://groups.google.com/d/forum/2ncn" maxItems="1000"/>
+      <outline text="立場新聞" title="立場新聞 Stand News (RSS 2.0)" type="rss" 
+            xmlUrl="http://www.thestandnews.com/rss/" htmlUrl="https://thestandnews.com/" maxItems="2000"/>
+      <outline text="博谈网" title="博谈网" type="rss" 
+            xmlUrl="http://www.botanwang.com/rss.xml" htmlUrl="https://botanwang.com" maxItems="2000"/>
+      <outline text="端傳媒Initium Media(付费)" title="端傳媒 Initium Media" type="rss" 
+            xmlUrl="http://feeds.initium.news/theinitium" htmlUrl="https://theinitium.com/newsfeed/"/>
+      <outline text="自由亚洲(翻墙知识)" title="自由亚洲(翻墙知识)" type="rss" 
+            xmlUrl="https://www.rfa.org/cantonese/firewall_features/rss2.xml?encoding=simplified" htmlUrl="https://www.rfa.org/cantonese/firewall_features?encoding=simplified"/>
+      <outline text="GFW blog(功夫网与翻墙)" title="GFW BLOG（功夫网与蕃茄）" type="rss" 
+            xmlUrl="http://www.chinagfw.org/feeds/posts/default?alt=rss" htmlUrl="http://www.chinagfw.org/"/>
+      <outline text="翻牆網 ATGFW.ORG" title="翻牆網 ATGFW.ORG" type="rss" 
+            xmlUrl="https://www.atgfw.org/feeds/posts/default" htmlUrl="http://www.atgfw.org/"/>
+      <outline text="美博园蕃茄网" title="美博园蕃茄网" type="rss" 
+            xmlUrl="https://feeds.feedburner.com/allinfa?format=xml" htmlUrl="http://allinfa.com"/>
+      <outline text="细节的力量" title="细节的力量" type="rss" 
+            xmlUrl="http://xijie.wordpress.com/feed/" htmlUrl="https://xijie.wordpress.com"/>
+      <outline text="月光博客" title="月光博客" type="rss" 
+            xmlUrl="http://feed.williamlong.info/" htmlUrl="http://www.williamlong.info/"/>
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" 
+            xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+      <outline text="免費資源網路社群" title="免費資源網路社群" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/freegroup" htmlUrl="https://free.com.tw"/>
+      <outline text="湾区日报" title="湾区日报第1178期 2018/05/23" type="rss" 
+            xmlUrl="http://wanqu.co/feed" htmlUrl="https://wanqu.co/issues/1199?s=rss"/>
+      <outline text="政见 CNPolitics.org" title="政见 CNPolitics.org" type="rss" 
+            xmlUrl="http://cnpolitics.org/feed/" htmlUrl="http://cnpolitics.org"/>
+      <outline text="Steemit@v2ray" title="Steemit@v2ray" type="rss" 
+            xmlUrl="http://createfeed.fivefilters.org/extract.php?url=https://steemit.com/@v2ray&amp;in_id_or_class=articles__h2+entry-title&amp;url_contains=" htmlUrl="https://steemit.com/@v2ray"/>
+      <outline text="Steemit@iyouport" title="Steemit" type="rss" 
+            xmlUrl="http://createfeed.fivefilters.org/extract.php?url=https://steemit.com/@iyouport&amp;in_id_or_class=articles__h2+entry-title&amp;url_contains=" htmlUrl="https://steemit.com/@iyouport"/>
+      <outline text="学而时嘻之" title="学而时嘻之" type="rss" 
+            xmlUrl="http://www.geekonomics10000.com/feed" htmlUrl="http://www.geekonomics10000.com"/>
+      <outline text="Read for Joy" title="Read for Joy" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/readjoyblog?format=xml" htmlUrl="http://readforjoy.blogspot.com/"/>
+      <outline text="谌洪果" title="谌洪果" type="rss" 
+            xmlUrl="http://blog.sina.com.cn/rss/1461611585.xml" htmlUrl="http://blog.sina.com.cn/chenhongguo"/>
+      <outline text="showfom" title="showfom" type="rss" 
+            xmlUrl="https://sb.sb/rss/" htmlUrl="https://sb.sb/"/>
+      <outline text="the Beijinger Blog" title="the Beijinger Blog" type="rss" 
+            xmlUrl="http://www.thebeijinger.com/blog/feed" htmlUrl="http://www.thebeijinger.com/blog"/>
+      <outline text="Wired" title="Wired" type="rss" 
+            xmlUrl="http://www.wired.com/news/feeds/rss2/0,2610,,00.xml" htmlUrl="https://www.wired.com"/>
+      <outline text="Google AI Blog" title="Google AI Blog" type="rss" 
+            xmlUrl="https://feeds.feedburner.com/blogspot/gJZg" htmlUrl="http://ai.googleblog.com/"/>
+      <outline text="葡萄园@无墙计划" title="葡萄园@无墙计划" type="rss" 
+            xmlUrl="https://www.undervineyard.tk/feed.xml" htmlUrl="https://www.undervineyard.tk/"/>
+      <outline text="Yahoo News" title="Yahoo News - Latest News &#38; Headlines" type="rss" 
+            xmlUrl="https://www.yahoo.com/news/rss" htmlUrl="http://www.yahoo.com/news" maxItems="500"/>
+      <outline text="lkml.org : last messages by Linus Torvalds" title="lkml.org : last messages by Linus Torvalds" type="rss" 
+            xmlUrl="https://lkml.org/groupie.php?aid=" htmlUrl="http://lkml.org"/>
+      <outline text="Twitter" title="Twitter" type="rss" 
+            xmlUrl="https://twitter.com/" htmlUrl="https://twitter.com/" maxItems="2000" scanDelay="5"/>
+      <outline text="Facebook" title="Facebook" type="rss" 
+            xmlUrl="https://www.facebook.com/" htmlUrl="https://www.facebook.com/"/>
+</body>
+</opml>
