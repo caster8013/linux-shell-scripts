@@ -14,6 +14,10 @@
             xmlUrl="http://chinadigitaltimes.net/chinese/feed/" htmlUrl="https://chinadigitaltimes.net/chinese"/>
       <outline text="编程随想的博客" title="编程随想的博客" type="rss" 
             xmlUrl="https://program-think.blogspot.com/feeds/posts/default" htmlUrl="https://program-think.blogspot.com/"/>
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" 
+            xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+      <outline text="文昭談古論今 | Youtube" title="Wen Zhao Official文昭談古論今" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtAIPjABiQD3qjlEl1T5VpA" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtAIPjABiQD3qjlEl1T5VpA"/>
       <outline text="端点星" title="端点星" type="rss" 
             xmlUrl="https://terminus2049.github.io/atom.xml" htmlUrl="https://terminus2049.github.io/atom.xml"/>
       <outline text="泡泡网" title="泡泡网" type="rss" 
@@ -37,7 +41,7 @@
       <outline text="新世纪" title="【新世纪】" type="rss" 
             xmlUrl="https://groups.google.com/forum/feed/2ncn/topics/rss.xml?num=50" htmlUrl="https://groups.google.com/d/forum/2ncn" maxItems="1000"/>
       <outline text="立場新聞" title="立場新聞 Stand News (RSS 2.0)" type="rss" 
-            xmlUrl="http://www.thestandnews.com/rss/" htmlUrl="https://thestandnews.com/" maxItems="2000"/>
+            xmlUrl="http://www.thestandnews.com/rss/" htmlUrl="http://thestandnews.com/" maxItems="2000"/>
       <outline text="博谈网" title="博谈网" type="rss" 
             xmlUrl="http://www.botanwang.com/rss.xml" htmlUrl="https://botanwang.com" maxItems="2000"/>
       <outline text="端傳媒Initium Media(付费)" title="端傳媒 Initium Media" type="rss" 
@@ -54,12 +58,10 @@
             xmlUrl="http://xijie.wordpress.com/feed/" htmlUrl="https://xijie.wordpress.com"/>
       <outline text="月光博客" title="月光博客" type="rss" 
             xmlUrl="http://feed.williamlong.info/" htmlUrl="http://www.williamlong.info/"/>
-      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" 
-            xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" htmlUrl="http://www.ruanyifeng.com/blog/"/>
       <outline text="免費資源網路社群" title="免費資源網路社群" type="rss" 
             xmlUrl="http://feeds.feedburner.com/freegroup" htmlUrl="https://free.com.tw"/>
       <outline text="湾区日报" title="湾区日报第1178期 2018/05/23" type="rss" 
-            xmlUrl="http://wanqu.co/feed" htmlUrl="https://wanqu.co/issues/1199?s=rss"/>
+            xmlUrl="http://wanqu.co/feed" htmlUrl="https://wanqu.co/issues/1208?s=rss"/>
       <outline text="政见 CNPolitics.org" title="政见 CNPolitics.org" type="rss" 
             xmlUrl="http://cnpolitics.org/feed/" htmlUrl="http://cnpolitics.org"/>
       <outline text="Steemit@v2ray" title="Steemit@v2ray" type="rss" 
@@ -82,13 +84,25 @@
             xmlUrl="https://feeds.feedburner.com/blogspot/gJZg" htmlUrl="http://ai.googleblog.com/"/>
       <outline text="葡萄园@无墙计划" title="葡萄园@无墙计划" type="rss" 
             xmlUrl="https://www.undervineyard.tk/feed.xml" htmlUrl="https://www.undervineyard.tk/"/>
-      <outline text="Yahoo News" title="Yahoo News - Latest News &#38; Headlines" type="rss" 
-            xmlUrl="https://www.yahoo.com/news/rss" htmlUrl="http://www.yahoo.com/news" maxItems="500"/>
       <outline text="lkml.org : last messages by Linus Torvalds" title="lkml.org : last messages by Linus Torvalds" type="rss" 
             xmlUrl="https://lkml.org/groupie.php?aid=" htmlUrl="http://lkml.org"/>
-      <outline text="Twitter" title="Twitter" type="rss" 
-            xmlUrl="https://twitter.com/" htmlUrl="https://twitter.com/" maxItems="2000" scanDelay="5"/>
-      <outline text="Facebook" title="Facebook" type="rss" 
-            xmlUrl="https://www.facebook.com/" htmlUrl="https://www.facebook.com/"/>
+      <outline text="關鍵評論網 | The News Lens" title="The News Lens 關鍵評論網" type="rss" 
+            xmlUrl="https://feeds.feedburner.com/TheNewsLens" htmlUrl="https://www.thenewslens.com/feed/feedly"/>
+      <outline text="caster (@cieryleon) | Twitter" title="caster (@cieryleon) | Twitter" type="rss" 
+            xmlUrl="https://twitter.com/cieryleon" htmlUrl="https://twitter.com/cieryleon"/>
+      <outline text="蔡英文(Tsai Ing-wen) | Twitter" title="蔡英文 Tsai Ing-wen (@iingwen) | Twitter" type="rss" 
+            xmlUrl="https://twitter.com/iingwen" htmlUrl="https://twitter.com/iingwen"/>
+      <outline text="Stopkiddinstudio" title="Stopkiddinstudio" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBgdVDkSsiPBVop4-Ms0ihQ" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBgdVDkSsiPBVop4-Ms0ihQ"/>
+      <outline text="Software &#38; Computer program" title="Software &#38; Computer program" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PLwb9dimu_aY115J0EEFLuRF_8cEG3o2nt" htmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PLwb9dimu_aY115J0EEFLuRF_8cEG3o2nt"/>
+      <outline text="RFA翻墙交流-Scale the GFW" title="RFA翻墙交流-Scale the GFW" type="rss" 
+            xmlUrl="https://www.facebook.com/groups/170815068062/" htmlUrl="https://www.facebook.com/groups/170815068062/"/>
+      <outline text="Warley Wang - FB" title="Warley Wang" type="rss" 
+            xmlUrl="https://www.facebook.com/profile.php?id=100005454226633" htmlUrl="https://www.facebook.com/profile.php?id=100005454226633"/>
+      <outline text="柯文哲 - FB" title="柯文哲" type="rss" 
+            xmlUrl="https://www.facebook.com/DoctorKoWJ/?hc_ref=ARTlaq2xkV3t9ByCOeI58H7fDSaGaq5JkIccrA6iRh3pZ34yqbpPS7vCNavW298KTSc&amp;fref=nf" htmlUrl="https://www.facebook.com/DoctorKoWJ/?hc_ref=ARTlaq2xkV3t9ByCOeI58H7fDSaGaq5JkIccrA6iRh3pZ34yqbpPS7vCNavW298KTSc&amp;fref=nf"/>
+      <outline text="文昭談古論今 - FB" title="文昭談古論今 - FB" type="rss" 
+            xmlUrl="https://www.facebook.com/WenZhaoComment/posts/1061283554021210" htmlUrl="https://www.facebook.com/WenZhaoComment/posts/1061283554021210"/>
 </body>
 </opml>
